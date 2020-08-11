@@ -1,7 +1,7 @@
 ###### reprograma-Back-XP
 Atividades 1 do curso de Back-end da {Reprograma} em parceria com a XP
 
-## História da internet
+## {c:#4893C0} História da internet{/c}
 
 ![historiadaInternet](img/dia-da-internet.png)
 
@@ -60,13 +60,13 @@ Em 1989, Tim Berners-Lee desenvolveu a **World Wide Web (WWW)** para facilitar o
 
 Basicamente, a WWW funciona como um sistema de distribuição de documentos de hipertexto (HTTP) interconectados e acessíveis por meio de um navegador web conectado à Internet.
 
-A empresa norte - americana NETSCAPE criou o protocolo HTTPS (HyperText Transfer Protocol Secure), possibilitando o envio de dados criptografados para transações comerciais pela internet.
+A empresa norte - americana **NETSCAPE** criou o protocolo **HTTPS** (HyperText Transfer Protocol Secure), possibilitando o envio de dados criptografados para transações comerciais pela internet.
 
 O sistema se tornou tão popular no CERN que, em 1991, foi aberto ao público externo. Isso foi possível graças à criação do navegador Mosaic em 1993. De fato, sua recepção foi tão rápida que em 1997 havia mais de 200 mil sites.
 
 
-Fontes: 
-1- Conheça a história da Internet, sua finalidade e qual o cenário atual. (https://rockcontent.com/br/blog/historia-da-internet/)
+!!!**Fontes:** 
+1- [Conheça a história da Internet, sua finalidade e qual o cenário atual.](https://rockcontent.com/br/blog/historia-da-internet/)
 
-2- História da Internet. (https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf)
+2- [História da Internet.] (https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf)
 

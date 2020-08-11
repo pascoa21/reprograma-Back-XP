@@ -1,7 +1,7 @@
 ###### reprograma-Back-XP
-Atividades 1 do curso de Back-end da {Reprograma} em parceria com a XP
+`Atividades 1 do curso de Back-end da {Reprograma} em parceria com a XP`
 
-## {c:violet}História da internet{/c}
+## História da internet
 
 ![historiadaInternet](img/dia-da-internet.png)
 

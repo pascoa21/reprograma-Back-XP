@@ -64,6 +64,13 @@ A empresa norte - americana **NETSCAPE** criou o protocolo **HTTPS** (HyperText 
 
 O sistema se tornou tão popular no CERN que, em 1991, foi aberto ao público externo. Isso foi possível graças à criação do navegador Mosaic em 1993. De fato, sua recepção foi tão rápida que em 1997 havia mais de 200 mil sites.
 
+![poderdasmulheres](C:\Users\IATI-STN-DRONE\Documents\reprograma-Back-XP\img\mulheresuaforça.jpg)
+
+
+
+
+
+
 
 **Fontes:**
 `1.Conheça a história da Internet, sua finalidade e qual o cenário atual.-(https://rockcontent.com/br/blog/historia-da-internet/)`

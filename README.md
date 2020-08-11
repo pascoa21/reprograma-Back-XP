@@ -64,6 +64,19 @@ A empresa norte - americana **NETSCAPE** criou o protocolo **HTTPS** (HyperText 
 
 O sistema se tornou tão popular no CERN que, em 1991, foi aberto ao público externo. Isso foi possível graças à criação do navegador Mosaic em 1993. De fato, sua recepção foi tão rápida que em 1997 havia mais de 200 mil sites.
 
+### HTML
+
+HTML significa HyperText Markup Language, ou seja Linguagem de Marcação de Hipertexto, a função do HTML é estruturar as informações (texto, fotos, vídeos, etc…) dentro de uma página web. 
+
+O inicio da história do HTML se da em 1992, junto com o protocolo HTTP. A finalidade inicial era tornar possível o acesso e a troca de informações e de documentação de pesquisas, entre cientistas de diferentes universidades. 
+
+De 1993 a 1995 surgiram as primeiras versões do HTML, (HTML+, HTML 2.0, HTML 3.0) onde surgiram novas propostas de novos recursos que davam mais possibilidades a linguagem. Já em 1997 a W3C passou a gerir o HTML buscando sempre por uma padronização da linguagem que veio com o HTML 3.2 e desde então virou padrão entre os navegadores.
+
+Em 2004 começa a história do HTML 5 quando grandes empresas do ramo se uniram, Mozilla, Apple, Opera, e criaram a WHATWG (Web Hypertext Application Technology Working Group) uma organização que tinha como objetivo desenvolver uma nova versão do HTML com novas funcionalidades e descontinuando outras, tornando tudo mais adaptado as nossas atuais necessidades.
+
+![cronologia](img/historyHTML.jpg)
+
+O lançamento oficial do HTML5 se deu em 2014, e diversas novas tags semânticas foram adicionadas, como *<article>*, *<header>*, *<table>* e *<body>*.
 
 
 **Fontes:**

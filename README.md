@@ -1,7 +1,7 @@
 ###### reprograma-Back-XP
 Atividades 1 do curso de Back-end da {Reprograma} em parceria com a XP
 
-## {c:violet} História da internet{/c}
+## {c:violet}História da internet{/c}
 
 ![historiadaInternet](img/dia-da-internet.png)
 
@@ -65,8 +65,8 @@ A empresa norte - americana **NETSCAPE** criou o protocolo **HTTPS** (HyperText 
 O sistema se tornou tão popular no CERN que, em 1991, foi aberto ao público externo. Isso foi possível graças à criação do navegador Mosaic em 1993. De fato, sua recepção foi tão rápida que em 1997 havia mais de 200 mil sites.
 
 
-`**Fontes:**`
-`[Conheça a história da Internet, sua finalidade e qual o cenário atual.](https://rockcontent.com/br/blog/historia-da-internet/)`
+**Fontes:**
+`1.Conheça a história da Internet, sua finalidade e qual o cenário atual.-(https://rockcontent.com/br/blog/historia-da-internet/)`
 
-`[História da Internet.](https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf)`
+`2.História da Internet.-(https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf)`
 

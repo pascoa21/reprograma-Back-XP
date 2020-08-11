@@ -3,7 +3,7 @@ Atividades 1 do curso de Back-end da {Reprograma} em parceria com a XP
 
 ### História da internet
 
-![historiadaInternet]https://www.dialhost.com.br/blog/wp-content/uploads/2019/05/dia-da-internet.png
+![historiadaInternet](C:\Users\IATI-STN-DRONE\Documents\reprograma-Back-XP\img)
 
 Os primórdios da Internet remetem à reação do governo norte-americano ao Projeto Sputnik (primeiro satélite artificial da história) da antiga União das Repúblicas Socialistas Soviéticas(URSS) capitaniadas pela Rússia, durante a guerra fria, em 1957.
 

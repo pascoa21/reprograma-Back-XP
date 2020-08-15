@@ -101,8 +101,6 @@ CSS siginifica Cascading Style Sheet, em português folha de estilo em cascata, 
 
 CSS foi desenvolvido pelo W3C (World Wide Web Consortium) em 1996, porque o HTML não ifo projetado para ter tags que ajudariam a formatar a página. O CSS permite que você tenha vários estilos em uma página HTML, tornando as possibilidades de personalização quase infinitas. 
 
-**Fontes:**
-`1.Conheça a história da Internet, sua finalidade e qual o cenário atual.-(https://rockcontent.com/br/blog/historia-da-internet/)`
 
-`2.História da Internet.-(https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf)`
+
 

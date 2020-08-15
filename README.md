@@ -15,7 +15,7 @@ Em 1961, Leonard Kleinrock *apresentou sua teoria de comutação de pacotes* em 
 
 Esses pacotes podiam seguir caminhos diferentes, dependendo da saturação da rede, e ser refeitos na chegada ao destino.
 <p align="center">
-<img src="http://wiki.foz.ifpr.edu.br/wiki/images/9/9b/ComutacaoCircuitos.jpg" aling= center width="70%" height="50%" />
+<img src="http://wiki.foz.ifpr.edu.br/wiki/images/9/9b/ComutacaoCircuitos.jpg" aling= center width="60%" height="30%" />
 </p>
 Já em 1962, J. C. R Licklider, chefe da DARPA e pioneiro da Internet, descreveu o conceito de uma rede galáctica para acessar rapidamente dados de qualquer lugar do mundo.
 
@@ -28,7 +28,7 @@ O objetivo havia sido cumprido! Se essa tecnologia fosse desenvolvida em larga e
 A história da Internet continuou em 1966, quandoRoberts entrou na DARPA e criou o plano da ARPANET para desenvolver a primeira rede de comutação de pacotes junto a Robert Kahn e Howard Frank.
 
 Embora o primeiro protótipo de uma rede comutada por pacotes descentralizada já tivesse sido projetado pelo Laboratório Nacional de Física (NPL) do Reino Unido em 1968, ganharia visibilidade somente em 1969, **quando um computador da Universidade da Califórnia (UCLA) se conectou com sucesso a outro do Stanford Research Institute (SRI)**.
-<p align="center"><img src = "https://images.theconversation.com/files/144178/original/image-20161102-27228-vph505.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip" width="70%" height="50%" />
+<p align="center"><img src = "https://images.theconversation.com/files/144178/original/image-20161102-27228-vph505.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip" width="60%" height="30%" />
 </p>
 
 A conexão por nós foi tão bem-sucedida que, meses depois, quatro universidades americanas já estavam interconectadas. Assim nasceu a ARPANET!
@@ -50,14 +50,14 @@ Por isso, em 1974 Robert Kahn e Vinton Cerf desenvolveram uma nova versão do pr
 O protocolo TCP/IP, mais do que agir como um controlador, facilitava a comunicação entre redes sem a necessidade de que estas fizessem alterações em sua interface. Além disso, garantia que nenhum pacote de informações fosse perdido e verificava se eles chegavam na ordem em que haviam sido enviados.
 
 <p align="center">
-<img src="https://hardtec.com.br/wp-content/uploads/2019/12/1afc66d7078e-article-arpanet-infographic-map-768x466.png"  width="70%" height="50%" />
+<img src="https://hardtec.com.br/wp-content/uploads/2019/12/1afc66d7078e-article-arpanet-infographic-map-768x466.png"  width="60%" height="30%" />
 </p>
 No início dos anos 80, mais precisamente em 1983, a ARPANET mudou o protocolo NCP para o novo TCP/IP. O IP havia se tornado o serviço portador da Infraestrutura de Informação Global.
 
 Em 1985, a Internet já estava consolidada como a principal rede de comunicação com alcance global.
 
 <p align="center">
-<img src="https://cdn.pixabay.com/photo/2013/04/29/09/21/surf-107865_960_720.jpg"  width="70%" height="50%" />
+<img src="https://cdn.pixabay.com/photo/2013/04/29/09/21/surf-107865_960_720.jpg"  width="60%" height="30%" />
 </p>
 
 
@@ -78,7 +78,7 @@ O sistema se tornou tão popular no CERN que, em 1991, foi aberto ao público ex
 HTML significa HyperText Markup Language, ou seja Linguagem de Marcação de Hipertexto, a função do HTML é estruturar as informações (texto, fotos, vídeos, etc…) dentro de uma página web. 
 
 <p align="center">
-<img src="img/o-que-e-html.jpg" aling= center width="70%" height="50%" />
+<img src="img/o-que-e-html.jpg" aling= center width="60%" height="30%" />
 </p>
 
 O inicio da história do HTML se da em 1992, junto com o protocolo HTTP. A finalidade inicial era tornar possível o acesso e a troca de informações e de documentação de pesquisas, entre cientistas de diferentes universidades. 
@@ -89,14 +89,14 @@ Em 2004 começa a história do HTML 5 quando grandes empresas do ramo se uniram,
 O lançamento oficial do HTML5 se deu em 2014.
 
 <<p align="center">
-<img src="img/historyHTML.jpg" aling= center width="70%" height="50%" />
+<img src="img/historyHTML.jpg" aling= center width="60%" height="30%" />
 </p>
 ### CSS
 
 CSS siginifica Cascading Style Sheet, em português folha de estilo em cascata, é uma linguagem utilizada para estilizar elementos escritos em html. Seria a decoração da página. Utilizando o CSS é possivel alterar a cor do texto e do fundo, fonte e o espaçamento. 
 
 <p align = center>
-<img src="img/ccs-html.png" width="70%" height="50%" />
+<img src="img/ccs-html.png" width="60%" height="30%" />
 </p>
 
 CSS foi desenvolvido pelo W3C (World Wide Web Consortium) em 1996, porque o HTML não ifo projetado para ter tags que ajudariam a formatar a página. O CSS permite que você tenha vários estilos em uma página HTML, tornando as possibilidades de personalização quase infinitas. 

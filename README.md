@@ -64,6 +64,9 @@ A empresa norte - americana **NETSCAPE** criou o protocolo **HTTPS** (HyperText 
 
 O sistema se tornou tão popular no CERN que, em 1991, foi aberto ao público externo. Isso foi possível graças à criação do navegador Mosaic em 1993. De fato, sua recepção foi tão rápida que em 1997 havia mais de 200 mil sites.
 
+<img src="https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2018/03/O-que-e-CSS-Aprenda-sobre-CSS-com-este-Guia-Basico.png" width="200" height="120" />
+
+
 ### HTML
 
 HTML significa HyperText Markup Language, ou seja Linguagem de Marcação de Hipertexto, a função do HTML é estruturar as informações (texto, fotos, vídeos, etc…) dentro de uma página web. 
@@ -79,9 +82,11 @@ O lançamento oficial do HTML5 se deu em 2014.
 
 ![cronologia](img/historyHTML.jpg)
 
-#### Como funciona o HTML?
+### CSS
 
+CSS siginifica Cascading Style Sheet, em português folha de estilo em cascata, é uma linguagem utilizada para estilizar elementos escritos em html. Seria a decoração da página. Utilizando o CSS é possivel alterar a cor do texto e do fundo, fonte e o espaçamento. 
 
+<img src="img/ccs-html.png" alingment = center>
 
 **Fontes:**
 `1.Conheça a história da Internet, sua finalidade e qual o cenário atual.-(https://rockcontent.com/br/blog/historia-da-internet/)`
